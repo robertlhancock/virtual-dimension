@@ -2,7 +2,7 @@
  Virtual Dimension
 ===================
 
-Virtual Dimensino is the virtual desktop application working at Microsoft Windows.
+Virtual Dimension is the virtual desktop application working at Microsoft Windows.
 
 How To Build
 ============
